@@ -193,7 +193,7 @@ This project is intended for educational and learning purposes.
 
 # 👨‍💻 Developed By
 
-**Your Name**
+**Bilawal Hameed**
 
 Flutter Developer | Machine Learning Enthusiast
 
